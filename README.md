@@ -12,4 +12,4 @@ Refresh the page
 - Inspect the page to see error warning
   -- `Warning: Prop 'className' did not match. Server: "ant-select-selection-placeholder" Client: "ant-select-selection-item"`
 
-This warning breaks the UI..
+This warning breaks the app's usr interface.
